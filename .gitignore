@@ -1,0 +1,5 @@
+# macos system files
+.DS_Store
+
+# temp lock files
+*.lock
