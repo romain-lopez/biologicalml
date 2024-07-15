@@ -9,10 +9,16 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="font-bold"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
-      {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+      {{- $gname := .LinkTitle -}}
+      {{- $glink := .RelPermalink -}}
+      {{- $glink := false -}}
+      {{- if eq $gname "Et Al." -}}
+        {{- $gname = "et al." -}}
+      {{- end -}}
+      {{- if $glink -}}
+        <a href="{{.RelPermalink}}">{{ $gname}}</a>
       {{- else -}}
-        {{ .LinkTitle }}
+        {{ $gname }}
       {{- end -}}
     </span>
     {{- if isset $.Params "author_notes" -}}

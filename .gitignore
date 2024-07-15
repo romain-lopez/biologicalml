@@ -3,3 +3,9 @@
 
 # temp lock files
 *.lock
+
+# remove public files
+public/
+
+# remove resources
+resources/

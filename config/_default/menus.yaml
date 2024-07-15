@@ -17,5 +17,5 @@ main:
     url: people/
     weight: 13
   - name: Join Us!
-    url: contact/
+    url: openings/
     weight: 20

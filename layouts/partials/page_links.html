@@ -30,13 +30,6 @@
   {{ i18n "btn_pdf" }}
 </a>
 {{ end }}
-{{ $resource := $page.Resources.GetMatch "cite.bib" }}
-{{ with $resource }}
-<a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
-  {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
-  {{ i18n "btn_cite" }}
-</a>
-{{ end }}
 {{ with $page.Params.url_code }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
@@ -47,6 +40,13 @@
 <a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
   {{ partial "functions/get_icon" (dict "name" "code-bracket" "attributes" "style=\"height: 1em\" class='inline-block'") }}
   {{ i18n "btn_code" }}
+</a>
+{{ end }}
+{{ $resource := $page.Resources.GetMatch "cite.bib" }}
+{{ with $resource }}
+<a class="hb-attachment-link {{ if $is_list }}hb-attachment-small{{else}}hb-attachment-large{{end}}" href="{{ .RelPermalink }}" target="_blank" data-filename="{{ .RelPermalink }}">
+  {{ partial "functions/get_icon" (dict "name" "document-duplicate" "attributes" "style=\"height: 1em\" class='inline-block'") }}
+  {{ i18n "btn_cite" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_dataset }}

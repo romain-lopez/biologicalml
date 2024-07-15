@@ -30,12 +30,35 @@ sections:
           size: cover
           position: center
           parallax: false
+  # - block: resume-biography-3
+  #   content:
+  #     # Choose a user profile to display (a folder name within `content/authors/`)
+  #     username: admin
+  #     text: ""
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Our Research
+  #       url: projects/
+  #   design:
+  #     css_class: dark
+  #     background:
+  #       color: black
+  #       image:
+  #         # Add your image background to `assets/media/`.
+  #         filename: Header_Image.jpg
+  #         filters:
+  #           brightness: 0.6
+  #         size: cover
+  #         position: center
+  #         parallax: false
+
+
   - block: markdown
     content:
       title: '📚 Our Research Group'
       subtitle: ''
       text: |-
-        The Biological Machine Learning Group, led by Romain Lopez, aims to advance the field of machine learning, and apply those techniques to enhance our understanding of biological systems. Our interdisciplinary research focuses on understanding the complex interactions and dynamics of cellular populations, particularly in the immune system, to drive discoveries in biology and medicine.
+        The Biological Machine Learning Group, led by <a href="people/" target="_blank">Romain Lopez</a>, aims to advance the field of machine learning, and apply those techniques to enhance our understanding of biological systems. Our interdisciplinary research focuses on understanding the complex interactions and dynamics of cellular populations, particularly in the immune system, to drive discoveries in biology and medicine.
 
         We are primarily affiliated with the <a href="https://cs.nyu.edu/" target="_blank">Computer Science Department</a> of the <a href="https://cims.nyu.edu/" target="_blank">Courant Institute for Mathematical Sciences</a> and the <a href="https://as.nyu.edu/departments/biology.html" target="_blank">Biology Department</a> of <a href="https://as.nyu.edu/" target="_blank">New York University</a>. We are also affiliated with the <a href="https://cds.nyu.edu/" target="_blank">Center for Data Science</a>.
     # design:

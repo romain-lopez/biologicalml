@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+layout: "listnopagination"
 
 # View.
 view: citation

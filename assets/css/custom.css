@@ -12,3 +12,78 @@
     --color-primary-900: 51 24 100;
     --color-primary-950: 33 16 70;
   }
+
+  .title-large {
+    font-size: 3rem; /* Adjust the size as needed */
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+.cta-group {
+  justify-content: center;
+}
+
+/*************************************************
+ *  People widget
+ **************************************************/
+
+ .people-widget {
+  margin-top: 0rem;
+}
+
+.section-heading h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.people-person .avatar {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 270px;
+  height: 270px;
+}
+
+.portrait-title h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.portrait-title h4,
+.portrait-title h5 {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.portrait-title a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.portrait-title a:hover {
+  text-decoration: underline;
+}
+
+.social-links a {
+  font-size: 1.2rem;
+  margin: 0 0.5rem;
+  color: #1a0dab;
+}
+
+.people-interests {
+  color: #555;
+  font-size: 1rem;
+}
+
+.hbb-section{padding-top:2rem;padding-bottom:2rem}
+/* 
+.avatar {
+  border-radius: 0%;
+  object-fit: cover;
+  width: 300px;
+  height: 300px; 
+}*/
