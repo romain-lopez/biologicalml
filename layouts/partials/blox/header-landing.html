@@ -24,7 +24,7 @@
   {{- $img = $img.Process "webp" -}}
   <div class="w-full bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center">
     <div class="w-full bg-white rounded dark:bg-gray-800">
-        <div class="h-96 overflow-hidden w-full relative">
+        <div class="h-1/2 overflow-hidden w-full relative">
         <img class="w-full h-full object-cover"
              src="{{$img.RelPermalink}}"
              width="{{$img.Width}}" height="{{$img.Height}}"
@@ -39,7 +39,7 @@
     <br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;
     NYU Biological Machine Learning Group
   </div>
-  <div class="flex justify-center">
+  <div class="flex justify-center mt-5">
     {{ with $block.content.button }}
     <a href="{{ .url }}" target="_blank" class="inline-flex items-center px-6 py-3 text-l font-semibold text-white" style="background-color: #57068c; border-radius: 0.5rem; hover:bg-purple-700 focus:outline-none focus:ring-4 focus:ring-purple-300">
       {{ .text }}
