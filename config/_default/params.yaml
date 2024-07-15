@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: 'NYU Biological Machine Learning Group'
     description: 'The NYU Biological Machine Learning Group led by Romain Lopez focuses on advancing machine learning tools for biological research, particularly in areas such as causality, interpretability, and single-cell omics data analysis.'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: 'G-YMW73R03L5' # Replace with your Google Analytics ID
     baidu_tongji: ''
