@@ -89,4 +89,15 @@
       {{ end }}
     </div>
   {{ end }}
+
+  {{ $markdowntext := $block.content.markdowntext | emojify | $page.RenderString | safeHTML}}
+
+  <div class="col-md-12">
+    <h2 class="text-2xl mb-4 px-4">Alumni</h2>
+</div>
+
+<div class="flex-auto max-w-screen-lg gap-4 mx-4 justify-start">
+  {{/* We use DIV rather than P to support `prose` class and multiple paragraphs */}}
+  {{ with $markdowntext }}<div class="prose prose-slate lg:prose-l dark:prose-invert max-w-screen-lg">{{ . }}</div>{{ end }}
+</div>
 </div>

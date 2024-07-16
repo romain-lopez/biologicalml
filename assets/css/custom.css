@@ -35,6 +35,11 @@
   margin-top: 0rem;
 }
 
+.mx-4 {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
 .section-heading h1 {
   font-size: 2rem;
   font-weight: bold;
