@@ -62,7 +62,7 @@ sections:
             </p>
             <ul class="key-publications">
                 <li>Lopez*, R., Nazaret*, A., Langevin*, M., Samaran*, J., Regier*, J., Jordan, M. I., & Yosef, N. (2019). "<strong style="color: #57068c;">A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements.</strong>" <em>ICML Workshop in Computational Biology</em>.</li>
-                <li>Lopez, R., Li, B., Keren-Shaul, H., Boyeau, P., Kedmi, M., Pilzer, D., et al. (2022). "<strong style="color: #57068c;">DestVI identifies continuums of cell types in spatial transcriptomics data.</strong>" <em>Nature Biotechnology</em>.</li>
+                <li>Lopez*, R., Li*, B., Keren-Shaul*, H., Boyeau, P., Kedmi, M., Pilzer, D., et al. (2022). "<strong style="color: #57068c;">DestVI identifies continuums of cell types in spatial transcriptomics data.</strong>" <em>Nature Biotechnology</em>.</li>
             </ul>
             <h3 id="single-cell-perturbation-data-modeling">Single-cell Perturbation Data Modeling</h3>
             <p>
