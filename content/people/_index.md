@@ -13,6 +13,7 @@ sections:
           - **Jayoung Ryu (2024)** - from Harvard University
           - **Taro Makino (2024)** - from New York University
           - **Martin Rohbeck (2024)** - from EMBL Heidelberg
+          - **Kexin Huang (2023)** - from Stanford
           - **Rebecca Boiarsky (2023)** - from MIT
           - **Xinming Tu (2023)** - from University of Washington
           - **Zitong (Jerry) Wang (2023)** - from California Institute of Technology
