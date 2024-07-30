@@ -53,7 +53,7 @@ sections:
             </p>
             <ul class="key-publications">
                 <li>Lopez, R., Boyeau, P., Regier, J., Gayoso, A., Jordan, M. I., & Yosef, N. (2018). "<strong style="color: #57068c;">Deep generative modeling for single-cell transcriptomics.</strong>" <em>Nature Methods</em>.</li>
-                <li>Gayoso, A., Lopez, R., Xing, G., Boyeau, P., Wu, K., Jayasuriya, M., Regier, J., & Yosef, N. (2022). "<strong style="color: #57068c;">A Python library for probabilistic analysis of single-cell omics data.</strong>" <em>Nature Biotechnology</em>.</li>
+                <li>Gayoso*, A., Lopez*, R., Xing*, G., Boyeau, P., Wu, K., Jayasuriya, M., Regier, J., & Yosef, N. (2022). "<strong style="color: #57068c;">A Python library for probabilistic analysis of single-cell omics data.</strong>" <em>Nature Biotechnology</em>.</li>
                 <li>Boyeau, P., Regier, J., Gayoso, A., Jordan, M. I., Lopez*, R., & Yosef*, N. (2023). "<strong style="color: #57068c;">An empirical Bayes method for differential expression analysis of single cells with deep generative models.</strong>" <em>Proceedings of the National Academy of Sciences</em>.</li>
             </ul>
             <h3 id="spatial-transcriptomics-data-analysis">Spatial Transcriptomics Data Analysis</h3>
@@ -61,7 +61,7 @@ sections:
                 Leveraging spatial transcriptomics, we aim to map cellular organization within tissues, combining computational biology techniques with experimental data to uncover spatial patterns and interactions at the molecular level. Our research focuses on developing robust methods for analyzing spatially resolved transcriptomics data, leading to new insights into tissue architecture and cellular function.
             </p>
             <ul class="key-publications">
-                <li>Lopez, R., Nazaret, A., Langevin, M., Samaran, J., Regier, J., Jordan, M. I., & Yosef, N. (2019). "<strong style="color: #57068c;">A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements.</strong>" <em>ICML Workshop in Computational Biology</em>.</li>
+                <li>Lopez*, R., Nazaret*, A., Langevin*, M., Samaran*, J., Regier*, J., Jordan, M. I., & Yosef, N. (2019). "<strong style="color: #57068c;">A joint model of unpaired data from scRNA-seq and spatial transcriptomics for imputing missing gene expression measurements.</strong>" <em>ICML Workshop in Computational Biology</em>.</li>
                 <li>Lopez, R., Li, B., Keren-Shaul, H., Boyeau, P., Kedmi, M., Pilzer, D., et al. (2022). "<strong style="color: #57068c;">DestVI identifies continuums of cell types in spatial transcriptomics data.</strong>" <em>Nature Biotechnology</em>.</li>
             </ul>
             <h3 id="single-cell-perturbation-data-modeling">Single-cell Perturbation Data Modeling</h3>
