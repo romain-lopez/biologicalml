@@ -3,14 +3,15 @@ title: Cross-modality Matching and Prediction of Perturbation Responses with Lab
   Gromov-Wasserstein Optimal Transport
 authors:
 - Jayoung Ryu
-- Romain Lopez
-- Charlotte Bunne
-- Aviv Regev
-date: '2024-04-01'
-publishDate: '2024-07-14T02:46:26.597803Z'
+- and Charlotte Bunne
+- Lucas Pinello
+- Aviv Regev*
+- Romain Lopez*
+date: '2024-07-01'
+publishDate: '2024-08-01T06:18:30.282723Z'
 publication_types:
 - article-journal
-publication: '*arXiv*'
+publication: '*Machine Learning in Computational Biology (MLCB)*'
 abstract: It is now possible to conduct large scale perturbation screens with complex
   readout modalities, such as different molecular profiles or high content cell images.
   While these open the way for systematic dissection of causal cell circuits, integrated
@@ -23,6 +24,6 @@ abstract: It is now possible to conduct large scale perturbation screens with co
   prediction in a recent multimodal single-cell perturbation dataset. Our approach
   opens the way to unified causal models of cell biology.
 tags:
-- insubmission
+- workshop
 url_pdf: https://arxiv.org/abs/2405.00838
 ---

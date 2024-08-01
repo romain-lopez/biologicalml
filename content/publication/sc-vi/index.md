@@ -7,7 +7,7 @@ authors:
 - Michael I. Jordan
 - Nir Yosef
 date: '2018-12-01'
-publishDate: '2024-07-14T02:46:26.701161Z'
+publishDate: '2024-08-01T06:18:30.397333Z'
 publication_types:
 - article-journal
 publication: '*Nature Methods*'

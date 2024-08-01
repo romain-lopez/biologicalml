@@ -7,7 +7,7 @@ authors:
 - Michael I. Jordan
 - Jeffrey Regier
 date: '2020-11-01'
-publishDate: '2024-07-14T02:46:26.669187Z'
+publishDate: '2024-08-01T06:18:30.364689Z'
 publication_types:
 - article-journal
 publication: '*Advances in Neural Information Processing Systems*'

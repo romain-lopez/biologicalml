@@ -9,7 +9,7 @@ authors:
 - Gabriele Scalia
 - Ehsan Hajiramezanali
 date: '2023-11-01'
-publishDate: '2024-07-14T02:46:26.616631Z'
+publishDate: '2024-08-01T06:18:30.306627Z'
 publication_types:
 - article-journal
 publication: '*NeurIPS Workshop on Generative AI and Biology*'

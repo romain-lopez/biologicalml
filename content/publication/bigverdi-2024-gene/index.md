@@ -9,7 +9,7 @@ authors:
 - Romain Lopez
 - David Richmond
 date: '2024-06-01'
-publishDate: '2024-07-14T02:46:26.594275Z'
+publishDate: '2024-08-01T06:18:30.286558Z'
 publication_types:
 - article-journal
 publication: '*CVPR Workshop on Computer Vision for Microscopy Images*'

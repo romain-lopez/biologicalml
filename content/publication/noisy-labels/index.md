@@ -8,7 +8,7 @@ authors:
 - Michael I. Jordan
 - Nir Yosef
 date: '2018-08-01'
-publishDate: '2024-07-14T02:46:26.704698Z'
+publishDate: '2024-08-01T06:18:30.400936Z'
 publication_types:
 - article-journal
 publication: '*Bay Area Machine Learning Symposium*'

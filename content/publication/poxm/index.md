@@ -5,7 +5,7 @@ authors:
 - Inderjit Dhillon
 - Michael I. Jordan
 date: '2021-02-01'
-publishDate: '2024-07-14T02:46:26.658229Z'
+publishDate: '2024-08-01T06:18:30.352774Z'
 publication_types:
 - article-journal
 publication: '*AAAI Conference on Artificial Intelligence*'

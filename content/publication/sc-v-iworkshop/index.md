@@ -7,7 +7,7 @@ authors:
 - Michael I. Jordan
 - Nir Yosef
 date: '2017-12-01'
-publishDate: '2024-07-14T02:46:26.708041Z'
+publishDate: '2024-08-01T06:18:30.404188Z'
 publication_types:
 - article-journal
 publication: '*NeurIPS Machine Learning workshop in Computational Biology*'

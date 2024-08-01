@@ -10,7 +10,7 @@ authors:
 - Michael I. Jordan
 - Nir Yosef
 date: '2019-10-01'
-publishDate: '2024-07-14T02:46:26.690381Z'
+publishDate: '2024-08-01T06:18:30.385969Z'
 publication_types:
 - article-journal
 publication: '*ICML Workshop in Computational Biology*'

@@ -4,7 +4,7 @@ title: 'Charting Cellular States, One Cell at a Time: Computational, Inferential
 authors:
 - Romain Lopez
 date: '2021-05-01'
-publishDate: '2024-07-14T02:46:26.654478Z'
+publishDate: '2024-08-01T06:18:30.348033Z'
 publication_types:
 - article-journal
 publication: '*eScholarship*'
